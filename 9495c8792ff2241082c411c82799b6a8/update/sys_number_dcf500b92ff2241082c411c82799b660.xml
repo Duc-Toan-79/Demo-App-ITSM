@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_591439_demo_app_need_it">x_591439_demo_app_need_it</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2</number>
+        <prefix>ND</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 07:08:45</sys_created_on>
+        <sys_id>dcf500b92ff2241082c411c82799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ND</sys_name>
+        <sys_package display_value="Demo app itsm" source="x_591439_demo_app">9495c8792ff2241082c411c82799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo app itsm">9495c8792ff2241082c411c82799b6a8</sys_scope>
+        <sys_update_name>sys_number_dcf500b92ff2241082c411c82799b660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 07:08:45</sys_updated_on>
+    </sys_number>
+</record_update>
