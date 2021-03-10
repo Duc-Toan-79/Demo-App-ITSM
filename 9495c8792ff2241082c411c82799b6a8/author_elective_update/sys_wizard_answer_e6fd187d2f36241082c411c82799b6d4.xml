@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Need IT</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Need IT</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 08:53:46</sys_created_on>
+        <sys_id>e6fd187d2f36241082c411c82799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need IT</sys_name>
+        <sys_package display_value="Demo app itsm" source="x_591439_demo_app">9495c8792ff2241082c411c82799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo app itsm">9495c8792ff2241082c411c82799b6a8</sys_scope>
+        <sys_update_name>sys_wizard_answer_e6fd187d2f36241082c411c82799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 08:53:46</sys_updated_on>
+        <table/>
+        <target_url>x_591439_demo_app_need_it.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo app itsm">9495c8792ff2241082c411c82799b6a8</application>
+        <file_path/>
+        <instance_id>0d50a49ddb1f1340b2e05d00cf961987</instance_id>
+        <instance_name>dev64573</instance_name>
+        <name>sys_wizard_answer_e6fd187d2f36241082c411c82799b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Need IT</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Need IT</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 08:53:46</sys_created_on>
+        <sys_id>e6fd187d2f36241082c411c82799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need IT</sys_name>
+        <sys_package display_value="Demo app itsm" source="x_591439_demo_app">9495c8792ff2241082c411c82799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo app itsm">9495c8792ff2241082c411c82799b6a8</sys_scope>
+        <sys_update_name>sys_wizard_answer_e6fd187d2f36241082c411c82799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 08:53:46</sys_updated_on>
+        <table/>
+        <target_url>x_591439_demo_app_need_it.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>]]></payload>
+        <payload_hash>-4531513</payload_hash>
+        <record_name>Need IT</record_name>
+        <reverted_from/>
+        <source>72efd4fd2f36241082c411c82799b63e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 09:02:18</sys_created_on>
+        <sys_id>13efd4fd2f36241082c411c82799b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781b5f5e870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 09:02:18</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>9fefd4fd163624106ee12127a6659794</update_guid>
+        <update_guid_history>9fefd4fd163624106ee12127a6659794:0,19dfd0fd053624104e71a40378b40ddd:-205585677,d1dfd0fd9136241023f4d649895a4ddb:917452927</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 09:03:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>e837a7a5a4c642988cd6181a8d471d04</sys_id>
+        <sys_metadata>e6fd187d2f36241082c411c82799b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need IT</sys_name>
+        <sys_package display_value="Demo app itsm" source="x_591439_demo_app">9495c8792ff2241082c411c82799b6a8</sys_package>
+        <sys_parent display_value="Task">6ff033c4c923101091f9f06464832717</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo app itsm">9495c8792ff2241082c411c82799b6a8</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_wizard_answer_e6fd187d2f36241082c411c82799b6d4</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_e6fd187d2f36241082c411c82799b6d4">13efd4fd2f36241082c411c82799b695</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 09:03:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
